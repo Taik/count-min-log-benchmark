@@ -1,0 +1,22 @@
+{
+	"ImportPath": "github.com/taik/count-min-log-benchmark",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/dgryski/go-farm",
+			"Rev": "d1e51a4af19092715f4ce7d8257fe5bc8f8be727"
+		},
+		{
+			"ImportPath": "github.com/seiflotfy/count-min-log",
+			"Rev": "97481711a886c0969b94d33ef663bb6b7103d194"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Comment": "v1.0-42-gb8dc1ce",
+			"Rev": "b8dc1cecf15bdaf1988d9e87aa7cd98d899a06d6"
+		}
+	]
+}
